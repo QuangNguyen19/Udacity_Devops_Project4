@@ -1,5 +1,4 @@
-![68747470733a2f2f636972636c6563692e636f6d2f67682f62626f6b657463682f70726f6a6563742d6d6c2d6d6963726f736572766963652d6b756265726e657465732e7376673f7374796c653d737667](https://user-images.githubusercontent.com/95665446/187174717-5d6ccbbd-ce8f-465d-a2ee-81f5589238e5.svg)
-
+[![<ORG_NAME>](https://circleci.com/gh/QuangNguyen19/Udacity_Project4.svg?style=svg)](https://app.circleci.com/pipelines/github/QuangNguyen19/Udacity_Project4?branch=master)
 
 ## Project Overview
 
